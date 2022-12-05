@@ -1,0 +1,12 @@
+<html>
+
+<body>
+
+<h2>my Code</h2>
+
+<p>This is a class exercise</p>
+
+
+</body>
+
+</html>
